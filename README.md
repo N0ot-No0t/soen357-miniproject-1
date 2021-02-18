@@ -19,7 +19,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 How many hours do you spend on your mobile device every day?
 15 responses
 
- ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/bargraph.png?raw=true)
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/bargraph.png?raw=true)
 
 
 
