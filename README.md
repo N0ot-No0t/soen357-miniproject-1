@@ -3,7 +3,7 @@ Healthy Screen Super App
 
 
 
-# Introduction
+## Introduction
 
 In modern society, people have spent hours upon hours on their smart phone devices, performing as many tasks as that of a computer. The applications range from phone and messaging to entertainment. 
 
