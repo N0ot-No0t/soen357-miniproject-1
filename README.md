@@ -35,7 +35,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 <p align="center"> What app do you use mainly for? (15 responses) </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/appusage.png?raw=true">
+  <img width="500" height="320" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/appusage.png?raw=true">
 </p>
 
 
@@ -43,7 +43,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 <p align="center"> Do you consider yourself a phone addict? (15 responses) </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/phoneaddict.png?raw=true">
+  <img width="500" height="320" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/phoneaddict.png?raw=true">
 </p>
  
 
@@ -51,7 +51,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 <p align="center"> Would you be happier with less time spent on your device? (15 responses) </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/lesstime.png?raw=true">
+  <img width="500" height="320" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/lesstime.png?raw=true">
 </p>
 
  
