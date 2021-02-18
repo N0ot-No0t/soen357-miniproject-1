@@ -27,7 +27,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 <p align="center"> How many hours do you spend on your mobile device every day? (15 responses) </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/bargraph.png?raw=true">
+  <img width="500" height="500" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/bargraph.png?raw=true">
 </p>
 
 
@@ -62,9 +62,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 
 The user personas are based on the survey responses that we received. Based on the types of apps used in our superapp, every user persona is either a user of an app (banking, social media) or other apps (games).
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/jamespersona.png?raw=true">
-</p>
+![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/jamespersona.png?raw=true)
  
  
  ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/clairepersona.png?raw=true)
