@@ -21,60 +21,33 @@ How many hours do you spend on your mobile device every day?
 
  ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/bargraph.png?raw=true)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 What app do you use mainly for? 
 15 responses
- 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/appusage.png?raw=true)
 
 Do you consider yourself a phone addict?
 15 responses
 
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/phoneaddict.png?raw=true)
  
-
 Would you be happier with less time spent on your device?
 15 responses
 
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/lesstime.png?raw=true)
+
  
-
-
 
 # User personas
 
-The user personas are based on the survey responses that we received. Based on the types of apps used in our superapp, every user persona is either a user of an app (banking, social media) or other apps (games). 
+The user personas are based on the survey responses that we received. Based on the types of apps used in our superapp, every user persona is either a user of an app (banking, social media) or other apps (games).
+
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/jamespersona.png?raw=true)
+ 
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/clairepersona.png?raw=true)
+  
+ ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/timpersona.png?raw=true)
  
 
  
