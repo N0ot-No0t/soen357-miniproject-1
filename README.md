@@ -72,3 +72,13 @@ The user personas are based on the survey responses that we received. Based on t
 
  
 
+## User journey
+
+A user journey can represent the usual actions a user performs on an application, as well as the thoughts and emotions behind that process. We decided to create James Smith's potential journey, which displays the actions he takes to develop healthier life and screen habits. Even though James reaches his set daily screen time limit, he feels satisfied because he is working towards reducing his frustration that _stemmed_ from social media being too time consuming.
+
+<p align="center">
+  <img width="900" height="700" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/miniproject_journeymap.png?raw=true">
+</p>
+
+## Sketches and wireframes
+
