@@ -24,7 +24,7 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 
 # Research questions
 
-<p align="center">How many hours do you spend on your mobile device every day? 15 responses </p>
+<p align="center"> How many hours do you spend on your mobile device every day? (15 responses) </p>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/bargraph.png?raw=true">
@@ -32,25 +32,27 @@ Messaging, private posts, transportation (Uber), banking and subscription to bus
 
 
 
-What app do you use mainly for? 
-15 responses
+<p align="center"> What app do you use mainly for? (15 responses) </p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/appusage.png?raw=true">
+</p>
 
 
- ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/appusage.png?raw=true)
 
+<p align="center"> Do you consider yourself a phone addict? (15 responses) </p>
 
-
-Do you consider yourself a phone addict?
-15 responses
-
- ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/phoneaddict.png?raw=true)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/phoneaddict.png?raw=true">
+</p>
  
 
 
-Would you be happier with less time spent on your device?
-15 responses
+<p align="center"> Would you be happier with less time spent on your device? (15 responses) </p>
 
- ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/lesstime.png?raw=true)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/lesstime.png?raw=true">
+</p>
 
  
 
@@ -60,7 +62,10 @@ Would you be happier with less time spent on your device?
 
 The user personas are based on the survey responses that we received. Based on the types of apps used in our superapp, every user persona is either a user of an app (banking, social media) or other apps (games).
 
- ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/jamespersona.png?raw=true)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/jamespersona.png?raw=true">
+</p>
+ 
  
  ![alt text](https://github.com/yordanevro/soen357-miniproject/blob/main/images/clairepersona.png?raw=true)
   
