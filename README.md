@@ -82,3 +82,9 @@ A user journey can represent the usual actions a user performs on an application
 
 ## Sketches and wireframes
 
+Once we identified common needs of potential clients, we identified features that we wished to implement. The main features of the application are messaging, banking, screen time limiting, transportation, calories tracking and workout planning. After having identified these features, we started the sketching phase. These sketches were very useful for creating the wireframes and the design of the app.
+<p align="center">
+  <img width="290" height="390" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches1.png?raw=true">
+  <img width="290" height="390" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches2.png?raw=true">
+  <img width="290" height="390" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches3.png?raw=true">
+</p>
