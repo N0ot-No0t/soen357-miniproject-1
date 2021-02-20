@@ -133,3 +133,11 @@ These font images are from www.fontsquirrel.com
 
 To conclude, healthy screen time was achieved through the use of this superapp. Users fitting in one of the three personas, will benefit from the app’s features and have a positive experience with their device. From the sketches, it can be seen that there are a number of features (screen limit) that focus on maintaining healthy screen usage and other features like ride-sharing, calorie tracking and workouts that provide functionality for the user.
 
+## References
+
+1. https://blog.adobe.com/en/2017/09/29/putting-personas-to-work-in-ux-design-what-they-are-and-why-theyre-important.html#gs.ti1wcc
+2. https://www.creativebloq.com/ux/3-way-create-website-mockups-11513936
+3. https://www.invisionapp.com/inside-design/how-to-wireframe/
+4. https://uxmastery.com/how-to-create-a-customer-journey-map/
+5. https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c
+
