@@ -1,6 +1,7 @@
 # CapChat
-Healthy Screen Super App
+A healthy screen habits super app
 
+Case study by Yordan Pramatarov and Nirmal Randhawa
 
 
 ## Introduction
@@ -122,11 +123,16 @@ We decided on three using fonts for CapChat: Lato, Roboto and Nunito. The former
   <img width="250" height="117" style="margin: 15px;" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/roboto.png?raw=true">
 </p>
 
-These font images are from fontsquirrel_
+Font images from _fontsquirrel_
 
 
 ## Mockups
 
+Once the sketching and designing phases complete, it was now possible to create the mockups. For this part, our goal was to keep the design simple and intuitive, while also sticking to the original intentions of the application. We implemented the chosen name, logo, color palette and typographies from the designing phase into the sketches. Thus, the mockups are the product of the inital user research and designing phases.
+
+<p align="center">
+  <img src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/mockups.png?raw=true">
+</p>
 
 ## Conclusion
 
