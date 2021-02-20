@@ -112,3 +112,7 @@ For the color scheme, we decided it was necessary to remain on the topic of heal
 
 
 ## Mockups
+
+## Conclusion
+
+To conclude, healthy screen time was achieved through the use of this superapp. Users fitting in one of the three personas, will benefit from the app’s features and have a positive experience with their device. From the sketches, it can be seen that there are a number of features (screen limit) that focus on maintaining healthy screen usage and other features like ride-sharing, calorie tracking and workouts that provide functionality for the user. 
