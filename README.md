@@ -1,4 +1,4 @@
-# soen357-miniproject
+# CapChat
 Healthy Screen Super App
 
 
@@ -84,9 +84,9 @@ A user journey can represent the usual actions a user performs on an application
 
 Once we identified common needs of potential clients, we identified features that we wished to implement. The main features of the application are messaging, banking, screen time limiting, transportation, calories tracking and workout planning. After having identified these features, we started the sketching phase. These sketches were very useful for creating the wireframes and the design of the app.
 <p align="center">
-  <img width="280" height="540" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches1.png?raw=true">
-  <img width="280" height="540" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches2.png?raw=true">
-  <img width="280" height="540" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches3.png?raw=true">
+  <img width="250" height="500" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches1.png?raw=true">
+  <img width="250" height="500" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches2.png?raw=true">
+  <img width="250" height="500" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches3.png?raw=true">
 </p>
 
 After creating the sketches, we were able deisgn wireframes without much hassle. Our goal was to create an application that is intuitive for the user to use, while also keeping the design modern and offer all functionalities identified earlier. We decided to also display the user flow inside the wireframes.
@@ -107,11 +107,17 @@ For the color scheme, we decided it was necessary to remain on the topic of heal
 
 ## Name and logo
 
+Consummers often get their first impression of a product from its name and its logo. Thus, it was important for us to give our application a catchy name and an interesting logo while also conveying the message behind it. For the name we went with _CapChat_, which is a play on captcha that also includes our two main features: screen time cap and chatting. For our logo, we focused on the idea of a _super_ app and our healthy lifestyle features and came up with the idea to have a superhero vegetable be the face of the application. Super Broccoli.   
+
+<p align="center">
+  <img src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/logo.png?raw=true">
+</p>
 
 ## Typography
 
 
 ## Mockups
+
 
 ## Conclusion
 
