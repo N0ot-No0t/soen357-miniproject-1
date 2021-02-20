@@ -84,7 +84,15 @@ A user journey can represent the usual actions a user performs on an application
 
 Once we identified common needs of potential clients, we identified features that we wished to implement. The main features of the application are messaging, banking, screen time limiting, transportation, calories tracking and workout planning. After having identified these features, we started the sketching phase. These sketches were very useful for creating the wireframes and the design of the app.
 <p align="center">
-  <img width="390" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches1.png?raw=true">
-  <img width="390" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches2.png?raw=true">
-  <img width="390" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches3.png?raw=true">
+  <img width="300" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches1.png?raw=true">
+  <img width="300" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches2.png?raw=true">
+  <img width="300" height="570" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/sketches3.png?raw=true">
 </p>
+
+After creating the sketches, we were able deisgn wireframes without much hassle. Our goal was to create an application that is intuitive for the user to use, while also keeping the design modern and offer all functionalities identified earlier. We decided to also display the user flow inside the wireframes.
+
+<p align="center">
+  <img width="1000" height="600" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/wireframes.png?raw=true">
+</p>
+
+
