@@ -115,10 +115,21 @@ Consummers often get their first impression of a product from its name and its l
 
 ## Typography
 
+We decided on three using fonts for CapChat: Lato, Roboto and Nunito. The former one, Lato, will be the main font of the application. Lato is calm and pleasant, which is prefect for most of our features. We chose to use Roboto for the navigation and the banking feature, because it is more formal and adds contrast to the design. For the workout feature, using a gentle font would feel awkward. Instead, we decided to use Roboto, which is a bit harsher than Lato and less formal than Roboto.
+
+<p align="center">
+  <img width="250" height="117" margin="15px" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/lato.png?raw=true">
+  <img width="250" height="117" margin="15px" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/roboto.png?raw=true">
+  <img width="250" height="117" margin="15px" src="https://github.com/yordanevro/soen357-miniproject/blob/main/images/nunito.png?raw=true">
+</p>
+
+These font images are from www.fontsquirrel.com
+
 
 ## Mockups
 
 
 ## Conclusion
 
-To conclude, healthy screen time was achieved through the use of this superapp. Users fitting in one of the three personas, will benefit from the app’s features and have a positive experience with their device. From the sketches, it can be seen that there are a number of features (screen limit) that focus on maintaining healthy screen usage and other features like ride-sharing, calorie tracking and workouts that provide functionality for the user. 
+To conclude, healthy screen time was achieved through the use of this superapp. Users fitting in one of the three personas, will benefit from the app’s features and have a positive experience with their device. From the sketches, it can be seen that there are a number of features (screen limit) that focus on maintaining healthy screen usage and other features like ride-sharing, calorie tracking and workouts that provide functionality for the user.
+
